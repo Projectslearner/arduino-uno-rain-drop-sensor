@@ -59,15 +59,15 @@ This project demonstrates the use of a raindrop sensor with an Arduino to detect
 2. **Garden Automation:** Automatically controlling sprinkler systems based on rain detection.
 3. **Smart Home Systems:** Integrating rain detection into home automation for closing windows or triggering alerts.
 
-## Support
+---
 
-For any issues or further assistance, please contact us:
+### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
 
-- 🌐 [Projects Learner](https://projectslearner.com)
-- 📧 Email: projectslearner@gmail.com
-- 📸 Instagram
-- 📘 Facebook
-- ▶️ YouTube
-- 📘 LinkedIn
+🌐 [projectslearner.com](https://www.projectslearner.com)  
+📧 [projectslearner@gmail.com](mailto:projectslearner@gmail.com)  
+📸 [Instagram](https://www.instagram.com/projectslearner/)  
+📘 [Facebook](https://www.facebook.com/projectslearner)  
+▶️ [YouTube](https://www.youtube.com/@ProjectsLearner)  
+📘 [LinkedIn](https://www.linkedin.com/in/projectslearner)  
 
-Made for you with ❣️ from ProjectsLearner.
+## Made for you with ❣️ from ProjectsLearner
